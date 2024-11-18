@@ -1,0 +1,8 @@
+1.token
+
+2.verify the token
+
+3.id/password
+
+4.encrypt password
+

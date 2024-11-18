@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "name": "Deep Patel",
+      "email": "deepp@gmail.com",
+      "contect": "8320458585",
+      "id": 3
+    },
+    {
+      "name": "Dev Trivedi",
+      "email": "dev@gmail.com",
+      "contect": "1234569870",
+      "id": 9
+    },
+    {
+      "name": "Raj Bhatt",
+      "email": "raj@gmail.com",
+      "contect": "1236547899",
+      "id": 10
+    }
+  ]
+}
